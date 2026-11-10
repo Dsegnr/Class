@@ -1,0 +1,14 @@
+private/
+runtime/
+.env
+**/.env
+.venv/
+**/__pycache__/
+**/*.pyc
+**/*.db
+**/*.sqlite*
+**/*.log
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+**/*.tsbuildinfo
